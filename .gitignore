@@ -1,0 +1,22 @@
+.DS_Store
+**/.DS_Store
+~$*
+.ipynb_checkpoints/
+__pycache__/
+
+# Large dataset files (>100MB GitHub limit)
+Client_Project_Info_Viz_Dataset/hralit.sql.gz
+Client_Project_Info_Viz_Dataset/hralit_publication.csv.gz
+Client_Project_Info_Viz_Dataset/hralit_publication_subject.csv.gz
+Client_Project_Info_Viz_Dataset/hralit_pub_funding_funder.csv.gz
+
+# HF deploy repo (separate git repo, pushed to HF independently)
+hf_deploy_push/
+
+# Old deploy versions (only keeping v4 as latest)
+hf_deploy/
+hf_deploy_v2/
+hf_deploy_v3/
+
+# Misc
+File_by_Teammate/
