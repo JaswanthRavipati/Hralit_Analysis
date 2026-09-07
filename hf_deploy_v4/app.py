@@ -287,7 +287,7 @@ def render_trends(data):
     organ_yearly = data['organ_yearly']
     yr_range = list(range(max(yr[0],1950), min(yr[1]+1,2022)))
     forecast_range = list(range(yr[1]+1, yr[1]+1+fc_n)) if fc else []
-    cmap_tab = plt.cm.get_cmap('tab20', len(all_organs))
+    cmap_tab = plt.get_cmap('tab20', len(all_organs))
     
     # Precompute colors and forecast data
     organ_colors = {}
@@ -790,4 +790,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-

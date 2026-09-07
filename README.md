@@ -116,7 +116,7 @@ HRAlit-Analysis/
 
 ```bash
 # Clone the repo
-git clone https://github.com/Tejas1703/HRAlit-Analysis.git
+git clone https://github.com/JaswanthRavipati/Hralit_Analysis.git
 cd HRAlit-Analysis/hf_deploy_v4
 
 # Install dependencies
