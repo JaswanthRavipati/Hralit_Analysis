@@ -2,7 +2,7 @@
 
 > **Interactive visualization and analysis of the Human Reference Atlas (HRA) literature database — uncovering publication trends, funding flows, global collaborations, and institutional research networks.**
 
-[![Live Dashboard](https://img.shields.io/badge/🚀_Live_Dashboard-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/spaces/Tejas1703/hralit-dashboard)
+[![Live Dashboard](https://img.shields.io/badge/🚀_Live_Dashboard-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://hralitanalysis-ayt6ruxgmdwtbhneph6sdr.streamlit.app/)
 
 ---
 
